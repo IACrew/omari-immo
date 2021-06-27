@@ -58,6 +58,30 @@
                     </div>
                 </div>
             </div>
+            <!-- ltn__slide-item -->
+            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-15" data-bg="../assets/img/slider/13.jpg">
+                <div class="ltn__slide-item-inner  text-right">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 align-self-center">
+                                <div class="slide-item-info">
+                                    <div class="slide-item-info-inner ltn__slide-animation">
+                                        <h6 class="slide-sub-title white-color--- animated" style="color:#fff"><span><i class="fas fa-home"style="color:#fff"></i></span> Omari Agence Immobilière</h6>
+                                        <h1 class="slide-title animated "style="color:#fff">Le Bon Endroit Pour <br>Trouver Des Bons Activites </h1>
+                                        <div class="slide-brief animated">
+                                            <p style="color:#fff">Trouvez des activités passionnantes.Où vous voulez, quand vous voulez.</p>
+                                        </div>
+                                        <div class="btn-wrapper animated">
+                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1" >Consulter Les Activités</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!--  -->
         </div>
     </div>
