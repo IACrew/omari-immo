@@ -1,6 +1,7 @@
 <?php
             $cbd = new CrudBD();
             $objects= $cbd->getpost(6);
+            
             if($objects != null){
                     
                         ?>
@@ -18,6 +19,7 @@
             <div class="row ltn__product-slider-item-four-active-full-width slick-arrow-1">
             <?php
             foreach($objects as $object){
+                $count= count($cbd->listimg($object['idm']));
                 ?>
                 <!-- ltn__product-item -->
                 <div class="col-lg-12">
@@ -26,7 +28,11 @@
                             <a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><img src="../omariadmin/images/villa/<?php echo $cbd->lastimg($object['idm']);?>" style="height:250px;" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
-                                    <li class="sale-badge bg-green"><?php echo $object['Statu']?></li>
+                                <?php if($object['Statu']=="vente") {
+                                     echo'<li class="sale-badge bg-green">'.$object['Statu'].'</li>';
+                                }else{ 
+                                    echo'<li class="sale-badge bg-green---">Location</li>';
+                                    }?>
                                 </ul>
                             </div>
                             <div class="product-img-location-gallery">
@@ -40,10 +46,10 @@
                                 <div class="product-img-gallery">
                                     <ul>
                                         <li>
-                                            <a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><i class="fas fa-camera"></i> 4</a>
+                                            <a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><i class="fas fa-camera"></i><?php echo $count; ?></a>
                                         </li>
                                         <li>
-                                            <a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><i class="fas fa-film"></i> 2</a>
+                                            <a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><i class="fas fa-film"></i><?php if($object['idvideo']!=""){echo "1";}else{echo"0";} ?></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -55,7 +61,7 @@
                             </div>
                             <h2 class="product-title"><a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><?php echo $object['titre']?></a></h2>
                             <div class="product-description">
-                                <p><?php echo $object['description']?></p>
+                                <p><?php echo str_split($object['description'], 30,)[0].' <a href="./Detail-Produit.php?id='.$object['idm'].'">...Plus</a>'; ?></p>
                             </div>
                             <ul class="ltn__list-item-2 ltn__list-item-2-before">
                                 <li><span><?php echo $object['bedrooms']?> <i class="flaticon-bed"></i></span>

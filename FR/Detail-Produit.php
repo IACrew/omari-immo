@@ -72,7 +72,7 @@
                                 
                         </ul>
                             <ul>
-                                <je suis><label>Superficie: </label> <span><?php echo $po["meters"] ?></span></li>
+                                <li><label>Superficie: </label> <span><?php echo $po["meters"] ?></span></li>
                                 <li><label>Internet:</label> <span><?php echo $po["internet"] ?></span></li>
                                 <li><label>CA:</label> <span><?php echo $po["AC"] ?></span></li>
                                 <li><label>Parking:</label> <span><?php echo $po["parking"] ?></span></li>
@@ -115,7 +115,11 @@
                                         <div class="top-rated-product-info">
                                             <div class="product-ratting ">
                                                 <ul>
-                                                    <li class="sale-badge bg-green p-2"><?php echo $object['Statu']?></li>
+                                                <?php if($object['Statu']=="vente") {
+                                                     echo'<li class="sale-badge bg-green p-2">'.$object['Statu'].'</li>';
+                                                 }else{ 
+                                                        echo'<li class="sale-badge bg-green p-2">Location</li>';
+                                                 }?>
                                                 </ul>
                                             </div>
                                             <h6><a href="./Detail-Produit.php?id=<?php echo $object['idm'];?>"><?php echo $object['titre']?></a></h6>

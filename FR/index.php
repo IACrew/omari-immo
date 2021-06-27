@@ -125,34 +125,34 @@
     <div class="ltn__counterup-area section-bg-1 pt-120 pb-70">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6 align-self-center">
+                <div class="col-md-3 col-sm-6 ">
                     <div class="ltn__counterup-item text-color-white---">
                         <div class="counter-icon">
                             <img src="../assets/img/icons/ico-valeur.png">
                         </div>
                         <h2>Expérience</h2>
-                        <h6>Omari Immobilier,l'agence immobilière à Marrakech, a acquis année après année, un vaste réseau de contacts, que nous saurons vous recommander, qu'il s'agisse d'un notaire, un architecte, un conseiller financier ou juridique....</h6>
+                        <h6>Omari Immobilier a acquis année après année, un vaste réseau de contacts, que nous saurons vous recommander....</h6>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
+                <div class="col-md-3 col-sm-6 ">
                     <div class="ltn__counterup-item text-color-white---">
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-invest.png">
                         </div>
                         <h2>Maitrise</h2>
-                        <h6>L'Agence Omari Immobilier à Marrakech agit en professionnel de l'immobilier, ayant des règles de conduite, un code éthique, une grande discrétion dans le suivi des dossiers...</h6>
+                        <h6>Omari Immobilier agit en professionnel de l'immobilier, ayant un code éthique et une  discrétion dans le suivi des dossiers...</h6>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
+                <div class="col-md-3 col-sm-6 ">
                     <div class="ltn__counterup-item text-color-white---">
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-conseil.png">
                         </div>
                         <h2>Professionnalisme</h2>
-                        <h6>Choisir Omari IMMOBILIER, c'est choisir une agence prestigieuse reconnue à Marrakech, offrant une connaissance hors pair du marché de l'immobilier à Marrakech</h6>
+                        <h6>Choisir Omari Immobilier, c'est choisir une agence offrant une connaissance hors pair du marché de l'immobilier...</h6>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
+                <div class="col-md-3 col-sm-6 ">
                     <div class="ltn__counterup-item text-color-white---">
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-buy.png">

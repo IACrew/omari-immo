@@ -69,12 +69,12 @@
         if($result = mysqli_query($conn, $sql)){
             if(mysqli_num_rows($result) > 0){
                 if(mysqli_num_rows($result) < 3){
-                while($row = mysqli_fetch_assoc($result)){
-                    
-                       $res[]=$row;
-                       $res[]=$row;
-                       $res[]=$row;
-                } 
+                    while($row = mysqli_fetch_assoc($result)){
+                        
+                            $res[]=$row;
+                            $res[]=$row;
+                            $res[]=$row;
+                    } 
                 }else{
                     while($row = mysqli_fetch_assoc($result)){
                     
