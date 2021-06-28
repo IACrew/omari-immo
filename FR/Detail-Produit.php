@@ -82,15 +82,17 @@
                         </div>
                                         
                         
-
-                        
-                        <!-- <h4 class="title-2">Property Video</h4>
-                        <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50 bg-image mb-60" data-bg="img/others/5.jpg">
-                            <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="../assets/https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&amp;showinfo=0" data-rel="lightcase:myCollection">
-                                <i class="fa fa-play"></i>
-                            </a>
-                        </div>
-                         -->
+                        <?php 
+                            if ($po['idvideo']!="") {    
+                                
+                                echo '<h4 class="title-2">Property Video</h4>
+                                <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50 bg-image mb-60" data-bg="../assets/img/others/5.jpg">
+                                    <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/'.$po['idvideo'].'?autoplay=1&amp;showinfo=0" data-rel="lightcase:myCollection">
+                                        <i class="fa fa-play"></i>
+                                    </a>
+                                </div>';
+                         
+                         } ?>
                         
                     </div>
                 </div>
