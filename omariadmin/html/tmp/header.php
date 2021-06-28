@@ -61,7 +61,7 @@
                                     <li class="nk-menu-item">
                                         <a href="html/local.php" class="nk-menu-link">
                                             <span class="nk-menu-icon"><img src="./SVG/localcommercial.png"></span>
-                                            <span class="nk-menu-tooltip" title="Land"></span>
+                                            <span class="nk-menu-tooltip" title="Local Commercial"></span>
                                         </a>
                                     </li>
                                     <li class="nk-menu-item">
@@ -75,7 +75,7 @@
                                     <li class="nk-menu-item">
                                         <a href="html/agafay.php" class="nk-menu-link">
                                             <span class="nk-menu-icon"><img src="./SVG/agafay.png"></span>
-                                            <span class="nk-menu-tooltip" title="agafay"></span>
+                                            <span class="nk-menu-tooltip" title="Agafay camp"></span>
                                         </a>
                                     </li>
                                     

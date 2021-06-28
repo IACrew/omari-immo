@@ -36,10 +36,10 @@ $(document).ready(function(){
                        '<a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>'+
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
-                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
-                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
-                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
+                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modifier</span></a></li>'+
+                        
+                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modifier les images</span></a></li>'+
+                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Supprimer</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
 				  	}
 				     
@@ -76,10 +76,10 @@ $(document).ready(function(){
                        '<a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>'+
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
-                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
-                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
-                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
+                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modifier</span></a></li>'+
+                        
+                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modifier les images</span></a></li>'+
+                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Supprimer</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
 				  	}
 				     
@@ -124,10 +124,10 @@ $(document).ready(function(){
                        '<a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>'+
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
-                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
-                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
-                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
+                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modifier</span></a></li>'+
+                        
+                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modifier les images</span></a></li>'+
+                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Supprimer</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
 						  	}
 						     
@@ -298,10 +298,10 @@ $(document).ready(function(){
 		                       '<a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>'+
 		                       '<div class="dropdown-menu dropdown-menu-right">'+
 		                       ' <ul class="link-list-opt no-bdr">'+
-		                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-		                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
-		                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
-		                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
+		                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modifier</span></a></li>'+
+		                        
+		                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modifier les images</span></a></li>'+
+		                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Supprimer</span></a></li>'+
 		                       '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
 						  	}
 						     
@@ -390,7 +390,7 @@ $(document).ready(function(){
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
                        '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
+                        
                        '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
                        '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
@@ -430,10 +430,10 @@ $(document).ready(function(){
                        '<a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>'+
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
-                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
-                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
-                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
+                       '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modifier</span></a></li>'+
+                        
+                       '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modifier les images</span></a></li>'+
+                       '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Supprimer</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");
 				  	}
 		   }
@@ -610,7 +610,7 @@ function removeriad(a)
                        '<div class="dropdown-menu dropdown-menu-right">'+
                        ' <ul class="link-list-opt no-bdr">'+
                        '<li><a onclick="updateriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalTabs"><em class="icon ni ni-edit"></em><span>Modify</span></a></li>'+
-                       '<li><a href="#"><em class="icon ni ni-eye"></em><span>Voir le riad</span></a></li>'+
+                        
                        '<li><a onclick="imageriad('+obj[i]['idm']+')" data-toggle="modal" data-target="#modalimage"><em class="icon ni ni-activity-round"></em><span>Modify images</span></a></li>'+
                        '<li><a onclick="removeriad('+obj[i]['idm']+')" id=""><em class="icon ni ni-trash"></em><span>Delete</span></a></li>'+
                        '</ul></div></div></li></ul></div></div>').insertAfter("#headtable");

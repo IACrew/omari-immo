@@ -22,13 +22,13 @@
                                                                 <div class="form-icon form-icon-right">
                                                                     <em class="icon ni ni-search"></em>
                                                                 </div>
-                                                                <input type="text" class="form-control" id="default-04" placeholder="Search By Ref">
+                                                                <input type="text" class="form-control" id="default-04" placeholder="Recherche par réf">
                                                             </div>
                                                         </li>
                                                         
                                                         <li class="nk-block-tools-opt">
                                                             <a href="#" data-target="addProduct" class="toggle btn btn-icon btn-primary d-md-none"><em class="icon ni ni-plus"></em></a>
-                                                            <a href="#" data-target="addProduct" class="toggle btn btn-primary d-none d-md-inline-flex"><em class="icon ni ni-plus"></em><span>ADD</span></a>
+                                                            <a href="#" data-target="addProduct" class="toggle btn btn-primary d-none d-md-inline-flex"><em class="icon ni ni-plus"></em><span>Ajouter</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -48,25 +48,18 @@
                                                                 <label class="custom-control-label" for="uid"></label>
                                                             </div>
                                                         </div>
-                                                        <div class="nk-tb-col tb-col-sm"><span>Name</span></div>
-                                                        <div class="nk-tb-col"><span>Price</span></div>
+                                                        <div class="nk-tb-col tb-col-sm"><span>Nom</span></div>
+                                                        <div class="nk-tb-col"><span>Prix</span></div>
                                                         <div class="nk-tb-col"><span>Ref</span></div>
                                                         <div class="nk-tb-col"><span>Type</span></div>
-                                                        <div class="nk-tb-col tb-col-md"><span>Adress</span></div>
+                                                        <div class="nk-tb-col tb-col-md"><span>Adresse</span></div>
                                                         <div class="nk-tb-col tb-col-md"><em class="tb-asterisk icon ni ni-star-round"></em></div>
                                                         <div class="nk-tb-col nk-tb-col-tools">
                                                             <ul class="nk-tb-actions gx-1 my-n1">
                                                                 <li class="mr-n1">
                                                                     <div class="dropdown">
                                                                         <a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>
-                                                                        <div class="dropdown-menu dropdown-menu-right">
-                                                                            <ul class="link-list-opt no-bdr">
-                                                                                <li><a href="#"><em class="icon ni ni-edit"></em><span>Edit Selected</span></a></li>
-                                                                                <li><a href="#"><em class="icon ni ni-trash"></em><span>Remove Selected</span></a></li>
-                                                                                <li><a href="#"><em class="icon ni ni-bar-c"></em><span>Update Stock</span></a></li>
-                                                                                <li><a href="#"><em class="icon ni ni-invest"></em><span>Update Price</span></a></li>
-                                                                            </ul>
-                                                                        </div>
+                                                                        
                                                                     </div>
                                                                 </li>
                                                             </ul>
@@ -127,18 +120,18 @@
                                 <div  class="nk-add-product toggle-slide toggle-slide-right" data-content="addProduct" data-toggle-screen="any" data-toggle-overlay="true" data-toggle-body="true" data-simplebar>
                                     <div class="nk-block-head">
                                         <div class="nk-block-head-content">
-                                            <h5 class="nk-block-title">New  Agafay Camp</h5>
+                                            <h5 class="nk-block-title">Nouveau camp d'Agafay</h5>
                                             <div class="nk-block-des">
-                                                <p>Add information of new Agafay Camp .</p>
+                                                <p>Ajouter des informations pour le nouveau camp d'Agafay .</p>
                                             </div>
                                         </div>
                                     </div>
                                     <ul class="nav nav-tabs mt-n3">
                                                     <li class="nav-item">
-                                                        <a id="nav1" class="nav-link active" data-toggle="tab" href="#tabItem5"><em class="icon ni ni-user"></em><span>Summary</span></a>
+                                                        <a id="nav1" class="nav-link active" data-toggle="tab" href="#tabItem5"><em class="icon ni ni-user"></em><span>Résumé</span></a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a id="nav3" class="nav-link" data-toggle="tab" href="#tabItem7"><em class="icon ni ni-file-img"></em><span>Files</span></a>
+                                                        <a id="nav3" class="nav-link" data-toggle="tab" href="#tabItem7"><em class="icon ni ni-file-img"></em><span>Fichiers</span></a>
                                                     </li>
                                                 </ul>
                                                 <div class="tab-content">
@@ -147,7 +140,7 @@
                                                             <div class="row g-3">
                                                                 <div class="col-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="titre">Title </label>
+                                                                        <label class="form-label" for="titre">Titre </label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="titre">
                                                                         </div>
@@ -163,7 +156,7 @@
                                                                 </div>
                                                                 <div class="col-mb-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Prix">Price</label>
+                                                                        <label class="form-label" for="Prix">Prix</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Prix">
                                                                         </div>
@@ -172,7 +165,7 @@
                                                         
                                                                 <div class="col-mb-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Supericie">Meters</label>
+                                                                        <label class="form-label" for="Supericie">Mètres</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Supericie">
                                                                         </div>
@@ -191,7 +184,7 @@
                                                                 </div>
                                                                 <div class="col-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Adresse">Adress</label>
+                                                                        <label class="form-label" for="Adresse">Adresse</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Adresse">
                                                                         </div>
@@ -304,20 +297,20 @@
 
                                                     </div>-->
                                                     <div class="tab-pane" id="tabItem7">
-                                                        <label class="form-label">Files </label><br><br>
+                                                        <label class="form-label">Fichiers </label><br><br>
                                                         <div class="col-12">
                                                             <div class="custom-file">
                                                                         <input type="file" multiple class="custom-file-input" id="customFile">
-                                                                        <label class="custom-file-label" for="customFile">Choose images</label>
+                                                                        <label class="custom-file-label" for="customFile">Choisissez des images</label>
                                                                     </div><br><br>
                                                                     <div class="custom-file">
                                                                         <input type="file" multiple class="custom-file-input" id="customFile3">
-                                                                        <label class="custom-file-label" for="customFile">Choose file</label>
+                                                                        <label class="custom-file-label" for="customFile">Choisir les fichiers</label>
                                                                     </div>
                                                                      
                                                         </div><br><br>
                                                         <div class="col-12">
-                                                            <button id="Ajouter" class="btn btn-primary"><em class="icon ni ni-plus"></em><span>Add</span></button>
+                                                            <button id="Ajouter" class="btn btn-primary"><em class="icon ni ni-plus"></em><span>Ajouter</span></button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -332,10 +325,10 @@
             <div class="modal-content">
                 <a href="#" class="close" data-dismiss="modal"><em class="icon ni ni-cross-sm"></em></a>
                 <div class="modal-body modal-body-md">
-                    <h4 class="title">update information</h4>
+                    <h4 class="title">mettre à jour les informations</h4>
                     <ul class="nk-nav nav nav-tabs">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#tabItem1">Summary</a>
+                            <a class="nav-link active" data-toggle="tab" href="#tabItem1">Résumé</a>
                         </li>
                        
                     </ul>
@@ -345,7 +338,7 @@
                             <div class="row g-3">
                                                                 <div class="col-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="titre1">Title</label>
+                                                                        <label class="form-label" for="titre1">Titre</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="titre1">
                                                                         </div>
@@ -353,7 +346,7 @@
                                                                 </div>
                                                                 <div class="col-mb-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Prix1">Price</label>
+                                                                        <label class="form-label" for="Prix1">Prix</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Prix1">
                                                                         </div>
@@ -361,7 +354,7 @@
                                                                 </div>
                                                                 <div class="col-mb-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Supericie1">Meters</label>
+                                                                        <label class="form-label" for="Supericie1">Mètres</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Supericie1">
                                                                         </div>
@@ -377,14 +370,14 @@
                                                                 </div>
                                                                 <div class="col-12">
                                                                     <div class="form-group">
-                                                                        <label class="form-label" for="Adresse1">Adress</label>
+                                                                        <label class="form-label" for="Adresse1">Adresse</label>
                                                                         <div class="form-control-wrap">
                                                                             <input type="text" class="form-control" id="Adresse1">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-12">
-                                                            <button id="Modifer" class="btn btn-primary"><em class="icon ni ni-plus"></em><span>Modify</span></button>
+                                                            <button id="Modifer" class="btn btn-primary"><em class="icon ni ni-plus"></em><span>Modifier</span></button>
                                                         </div>
                                                                 
                                                                 
@@ -401,7 +394,7 @@
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-body modal-body-md">
-                    <h4 class="title">update images of Agafay Camp</h4>
+                    <h4 class="title">mettre à jour les images du camp d'Agafay</h4>
                     <div class="row" id="imageriad">
                         
                     </div>
@@ -420,9 +413,9 @@
                 <div class="modal-body modal-body-lg text-center">
                     <div class="nk-modal">
                         <em class="nk-modal-icon icon icon-circle icon-circle-xxl ni ni-check bg-success"></em>
-                        <h4 class="nk-modal-title">Congratulations!</h4>
+                        <h4 class="nk-modal-title">Félicitations!</h4>
                         <div class="nk-modal-text">
-                            <div class="caption-text">You’ve successfully Add <strong>your product</strong> to your <strong>store</strong> </div>
+                            <div class="caption-text">Vous avez réussi à ajouter <strong>ton produit</strong> à ton <strong>boutique</strong> </div>
                             
                         </div>
                         <div class="nk-modal-action">
@@ -441,14 +434,14 @@
                 <div class="modal-body modal-body-lg text-center">
                     <div class="nk-modal">
                         <em class="nk-modal-icon icon icon-circle icon-circle-xxl ni ni-alert bg-danger"></em>
-                        <h4 class="nk-modal-title">Alert!</h4>
+                        <h4 class="nk-modal-title">Alerte!</h4>
                         <div class="nk-modal-text">
-                            <div class="caption-text">You want to delete this <strong>product</strong> from your <strong>store</strong> </div>
+                            <div class="caption-text">Vous voulez supprimer ce <strong>produit</strong> de ton <strong>boutique</strong> </div>
                             
                         </div>
                         <div class="nk-modal-action">
-                            <a href="#" class="btn btn-lg btn-mw btn-secondary" data-dismiss="modal" id="No">No</a>
-                            <a href="#" class="btn btn-lg btn-mw btn-danger" data-dismiss="modal" id="Yes">Yes</a>
+                            <a href="#" class="btn btn-lg btn-mw btn-secondary" data-dismiss="modal" id="No">Non</a>
+                            <a href="#" class="btn btn-lg btn-mw btn-danger" data-dismiss="modal" id="Yes">Oui</a>
                         </div>
                     </div>
                 </div><!-- .modal-body -->

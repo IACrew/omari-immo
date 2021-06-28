@@ -12,7 +12,7 @@
                                         <div class="nk-block-head-content">
                                             
                                             <div class="nk-block-des text-soft">
-                                                <h3>Omari building.</h3>
+                                                <h3>Immeuble Omari.</h3>
                                             </div>
                                         </div><!-- .nk-block-head-content -->
                                         <div class="nk-block-head-content">
@@ -21,7 +21,7 @@
                                                 <div class="toggle-expand-content" data-content="pageMenu">
                                                     <ul class="nk-block-tools g-3">
                                                         
-                                                        <li class="nk-block-tools-opt"><a href="html/index.php" class="btn btn-primary" style="background-color: #d6ad5f;border-color: #d6ad5f;"><em class="icon ni ni-reports"></em><span>Statistique</span></a></li>
+                                                        <li class="nk-block-tools-opt"><a href="html/index.php" class="btn btn-primary" style="background-color: #d6ad5f;border-color: #d6ad5f;"><em class="icon ni ni-reports"></em><span>Statistiques</span></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -36,7 +36,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Appartment for sale</h6>
+                                                                <h6 class="title">Appartement à vendre</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -56,7 +56,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Appartment for Rent</h6>
+                                                                <h6 class="title">Appartement à Louer</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -76,7 +76,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Villa for Sale</h6>
+                                                                <h6 class="title">Villa à vendre</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -96,7 +96,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Villa for Rent</h6>
+                                                                <h6 class="title">Villa à Louer</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -117,7 +117,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Riad for Sale</h6>
+                                                                <h6 class="title">Riad à vendre</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -137,7 +137,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Riad for Rent</h6>
+                                                                <h6 class="title">Riad à Louer</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -157,7 +157,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Land for Sale</h6>
+                                                                <h6 class="title">Local Commercial à vendre</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
@@ -177,7 +177,7 @@
                                                     <div class="card-inner">
                                                         <div class="card-title-group">
                                                             <div class="card-title">
-                                                                <h6 class="title">Land for Rent</h6>
+                                                                <h6 class="title">Local Commercial à Louer</h6>
                                                             </div>
                                                         </div>
                                                         <div class="data">
