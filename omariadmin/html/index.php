@@ -12,7 +12,7 @@
                                         <div class="nk-block-head-content">
                                             
                                             <div class="nk-block-des text-soft">
-                                                <h3>Zenvestor building.</h3>
+                                                <h3>Omari building.</h3>
                                             </div>
                                         </div><!-- .nk-block-head-content -->
                                         <div class="nk-block-head-content">
