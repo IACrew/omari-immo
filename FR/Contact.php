@@ -25,7 +25,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__form-box contact-form-box box-shadow white-bg">
                         <h4 class="title-2"></h4>
-                        <form id="contact-form" action="https://maelectrics.com/tf/html/quarter-preview/quarter/mail.php" method="post">
+                        <form id="contact-form" action="Contact2.php" method="post">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="input-item input-item-name ltn__custom-icon">
@@ -39,17 +39,17 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="input-item">
-                                        <select class="nice-select">
+                                        <select class="nice-select" name="reason">
                                             <option>Sélectionnez L'objet De Votre Message</option>
-                                            <option>Vente immobilier </option>
-                                            <option>Achat immobilier </option>
-                                            <option>Location de voitures</option>
-                                            <option>Transport touristique</option>
-                                            <option>Excursions & circuits</option>
-                                            <option>Conseil & accompagnement</option>
-                                            <option>Collaboration en immobilier</option>
-                                            <option>demande d'information</option>
-                                            <option>Autre</option>
+                                            <option value="Vente immobilier">Vente immobilier </option>
+                                            <option value="Achat immobilier">Achat immobilier </option>
+                                            <option value="Location de voitures"> Location de voitures</option>
+                                            <option value="Transport touristique">Transport touristique</option>
+                                            <option value="Excursions">Excursions & circuits</option>
+                                            <option value="Conseil">Conseil & accompagnement</option>
+                                            <option value="Collaboration">Collaboration en immobilier</option>
+                                            <option value="information">demande d'information</option>
+                                            <option value="Autre">Autre</option>
                                         </select>
                                     </div>
                                 </div>
@@ -123,7 +123,9 @@
 
 </div>
 <!-- Body main wrapper end -->
-
+<script>
+    
+</script>
     <!-- All JS Plugins -->
     <script src="../assets/js/plugins.js"></script>
     <!-- Main JS -->
