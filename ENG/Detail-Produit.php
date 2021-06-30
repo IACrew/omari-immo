@@ -118,9 +118,9 @@
                                             <div class="product-ratting ">
                                                 <ul>
                                                 <?php if($object['Statu']=="vente") {
-                                                     echo'<li class="sale-badge bg-green p-2">'.$object['Statu'].'</li>';
+                                                     echo'<li class="sale-badge bg-green p-2">Sale</li>';
                                                  }else{ 
-                                                        echo'<li class="sale-badge bg-green p-2">Location</li>';
+                                                        echo'<li class="sale-badge bg-green p-2">Rent</li>';
                                                  }?>
                                                 </ul>
                                             </div>
@@ -156,7 +156,7 @@
 <!-- Body main wrapper end -->
 
  <!-- FOOTER AREA START -->
- <?php require '../includes/footer.php'?>
+ <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
     <!-- preloader area start -->
     <div class="preloader d-none" id="preloader">

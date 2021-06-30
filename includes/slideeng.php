@@ -29,9 +29,9 @@
                             <div class="product-badge">
                                 <ul>
                                 <?php if($object['Statu']=="vente") {
-                                     echo'<li class="sale-badge bg-green">'.$object['Statu'].'</li>';
+                                     echo'<li class="sale-badge bg-green">Sale</li>';
                                 }else{ 
-                                    echo'<li class="sale-badge bg-green---">Location</li>';
+                                    echo'<li class="sale-badge bg-green---">Rent</li>';
                                     }?>
                                 </ul>
                             </div>

@@ -42,7 +42,7 @@
                                                         <li class="sale-badg">Excursions</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="#">Excursion Vallée de l'Ourika</a></h2>
+                                                <h2 class="product-title"><a href="#">Excursion Valley Ourika</a></h2>
                                         
 
                                             </div>
@@ -78,7 +78,7 @@
                                                         <li class="sale-badg">EXCURSIONS</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="#">Excursion d'Ouzoud </a></h2>
+                                                <h2 class="product-title"><a href="#">Excursion Ouzoud </a></h2>
                                         
 
                                             </div>
@@ -114,7 +114,7 @@
                                                         <li class="sale-badg">EXCURSIONS</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="#">Excursion vers Agadir</a></h2>
+                                                <h2 class="product-title"><a href="#">Excursion Agadir</a></h2>
                                         
 
                                             </div>
@@ -132,7 +132,7 @@
                                                         <li class="sale-badg">EXCURSIONS</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="#">Excursion Haut Atlas</a></h2>
+                                                <h2 class="product-title"><a href="#">Excursion High Atlas</a></h2>
                                         
 
                                             </div>

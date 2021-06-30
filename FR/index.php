@@ -111,30 +111,31 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
                             <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Qui Sommes-nous</h6>
-                            <h1 class="section-title">Omari Agence immobilière <span>.</span></h1>
-                            <p>est une agence immobilière proposant depuis 2020 des biens en location ou en vente à Marrakech.</p>
+                            <h1 class="section-title">L’immobilier à Marrakech c’est notre métier, <span>.</span></h1>
+                            <p>Pour toutes vos transactions immobilières que se soit : Location d’ Appartement, Villa ou Bureau ou la Vente/Achat à Marrakech, l’équipe de l'agence immobilière Omari Immobilier aura le plaisir de vous orienter et vous accompagner.
+
+</br>Notre gamme de produits est vaste, nous vous invitons à la découvrir.
+
+</br>Une mission simple est une tâche qui exige la recherche d’un acheteur/locataire estimatif d’un produit immobilier, sans être impliqué dans les détails de la négociation des prix et des actes juridiques entre les deux parties : l’acheteur/locataire et le propriétaire.</p>
                         </div>
                         <ul class="ltn__list-item-half clearfix">
                             <li>
                                 <i class="flaticon-home-2"></i>
-                                Conseil en immobilier
+                                Achat et Vente Immobilier
                             </li>
                             <li>
                                 <i class="flaticon-mountain"></i>
-                                Belle Scène Autour
+                                Conseil en Immobilier
                             </li>
                             <li>
                                 <i class="flaticon-heart"></i>
-                                Vente et Location d'un Immeuble
+                                Location Des Biens Immobiliers
                             </li>
                             <li>
                                 <i class="flaticon-secure"></i>
-                                Commercialisation exclusive de programmes immobiliers
+                                Gestion & Suivi Transactions Immobilières
                             </li>
                         </ul>
-                        <div class="ltn__callout bg-overlay-theme-05  mt-30">
-                            <p>"Nous vous accompagnons jusqu'au bout de votre satisfaction, notre seule préoccupation est votre satisfaction !" </p>
-                        </div>
                         <div class="btn-wrapper animated">
                             <a href="Contact.php" class="theme-btn-1 btn btn-effect-1">Contactez nous</a>
                         </div>

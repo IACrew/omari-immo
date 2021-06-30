@@ -60,23 +60,26 @@
             </div>
             <!-- ltn__slide-item -->
             <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-15" data-bg="../assets/img/slider/13.jpg">
-                <div class="ltn__slide-item-inner  text-right">
+            <div class="ltn__slide-item-inner bgsld">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12 align-self-center">
                                 <div class="slide-item-info">
                                     <div class="slide-item-info-inner ltn__slide-animation">
-                                        <h6 class="slide-sub-title white-color--- animated" style="color:#fff"><span><i class="fas fa-home"style="color:#fff"></i></span> Omari Agence Immobilière</h6>
-                                        <h1 class="slide-title animated "style="color:#fff">Le Bon Endroit Pour <br>Trouver Des Bons Activites </h1>
+                                        <div class="slide-video mb-50 d-none">
+                                          
+                                        </div>
+                                        <h6 class="slide-sub-title white-color--- animated"style="color:#fff"><span style="color:#fff"><i class="fas fa-home" style="color:#fff"></i></span style="color:#fff"> Omari Agence Immobilière</h6>
+                                        <h1 class="slide-title animated " style="color:#fff">Find The<br>House Of Your Dreams</h1>
                                         <div class="slide-brief animated">
-                                            <p style="color:#fff">Trouvez des activités passionnantes.Où vous voulez, quand vous voulez.</p>
+                                            <p style="color:#fff"> OMARI AGENCE helps you find the property of your dreams or quickly sell your current home.</p>
                                         </div>
                                         <div class="btn-wrapper animated">
-                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1" >Consulter Les Activités</a>
+                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1"> Our Services</a>
+                                            
                                         </div>
                                     </div>
                                 </div>
-                                
                             </div>
                         </div>
                     </div>
@@ -198,7 +201,7 @@
                         <div class="section-title-area ltn__section-title-2--- mb-30">
                             <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About-us</h6>
                             <h1 class="section-title">Our values</h1>
-                            <p>Une agence immobilière à Marrakech qui tient à ses valeurs</p>
+                            <p>A real estate agency in Marrakech that values its values</p>
                         </div>
                         <ul class="ltn__list-item-1 ltn__list-item-1-before clearfix">
                             <li>A passion for real estate expressed by a taste for service</li>
