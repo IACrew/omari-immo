@@ -1,4 +1,4 @@
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
 
 <!-- BREADCRUMB AREA START -->
 <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/14.jpg">
@@ -7,12 +7,12 @@
                 <div class="col-lg-12">
                     <div class="ltn__breadcrumb-inner">
                         <h1 class="page-title">              
-                           Location de Voiture
+                           Car Rental
                         </h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span>Omari Service</a></li>
-                                <li>Location de Voiture</li>
+                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span>Omari Services</a></li>
+                                <li>Car Rental</li>
                             </ul>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Kia Picanto</a></h2>
@@ -57,7 +57,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Fiat Panda</a></h2>
@@ -75,7 +75,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Dacia Logan</a></h2>
@@ -93,7 +93,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Clio 4 manuel</a></h2>
@@ -111,7 +111,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Peugeot 208</a></h2>
@@ -129,7 +129,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Citroen C3</a></h2>
@@ -147,7 +147,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Dacia Duster</a></h2>
@@ -165,7 +165,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Hyundai Accent</a></h2>
@@ -184,7 +184,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Ford Fiesta</a></h2>
@@ -203,7 +203,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Jeep</a></h2>
@@ -222,7 +222,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Range Rover Velar</a></h2>
@@ -241,7 +241,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Range Rover Evoque</a></h2>
@@ -262,7 +262,7 @@
     </div>
 
  <!-- FOOTER AREA START -->
- <?php require '../includes/footer.php'?>
+ <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 </div>
 <!-- Body main wrapper end -->

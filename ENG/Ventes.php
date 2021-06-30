@@ -1,6 +1,6 @@
 <?php if(!isset($_GET['page'])){ header( "Location: ../ENG/" ); exit;} ?>
 <?php require '../includes/CrudBD.inc.php'?>
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
     <!-- BREADCRUMB AREA START -->
     <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/14.jpg">
         <div class="container">
@@ -747,7 +747,7 @@ foreach($objects as $object){
     <!-- CALL TO ACTION END -->
 
     <!-- FOOTER AREA START -->
-    <?php require '../includes/footer.php'?>
+    <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 
     <!-- MODAL AREA START (Quick View Modal) -->

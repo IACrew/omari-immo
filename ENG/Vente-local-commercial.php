@@ -1,6 +1,6 @@
 <?php $page="Local-Commercial"; ?>
 <?php require '../includes/CrudBD.inc.php'?>
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
     <!-- BREADCRUMB AREA START -->
     <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "  data-bg="img/bg/14.jpg">
         <div class="container">
@@ -75,13 +75,13 @@
                                                 </div>
                                                 <ul class="ltn__list-item-2--- ltn__list-item-2-before--- ltn__plot-brief">
                                                     <li><span><?php echo $object['bedrooms']?></span>
-                                                    Chambres
+                                                    Bedrooms
                                                     </li>
                                                     <li><span><?php echo $object['bathrooms']?> </span>
-                                                    Salles de bain
+                                                    Bathrooms
                                                     </li>
                                                     <li><span><?php echo $object['meters']?> </span>
-                                                    Superficie
+                                                    Meters
                                                     </li>
                                                 </ul>
                                             </div>
@@ -121,7 +121,7 @@
         </div>
     </div>
     <!-- FOOTER AREA START -->
-    <?php require '../includes/footer.php'?>
+    <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 </div>
 <!-- Body main wrapper end -->

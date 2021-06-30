@@ -6,8 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Omari immobilier agence immobilière de luxe a Marrakech, vente et location villa​, appartement, propriété de prestige, villa contemporaine, immobilier ...
-</title>
+    <title>Omari immobilier luxury real estate agency in Marrakech, sale and rental of villa, apartment, prestigious property, contemporary villa, real estate ...</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -56,7 +55,7 @@
                                     <!-- ltn__language-menu -->
                                     <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
                                         <ul>
-                                            <li><a href="../ENG"><span class="active-currency"><img src="../assets/img/flag/flag-en.jpg" alt="Logo"></span></a>
+                                            <li><a href="../FR"><span class="active-currency"><img src="../assets/img/flag/flag-fr.jpg" alt="Logo"></span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -104,36 +103,36 @@
                         <nav>
                             <div class="ltn__main-menu">
                                 <ul>
-                                    <li><a href="./">Accueil</a></li>
-                                    <li class="menu-icon"><a href="#">Vente</a>
+                                    <li><a href="./"> Home</a></li>
+                                    <li class="menu-icon"><a href="#">Sale</a>
                                         <ul>
-                                            <li><a href="Vente-appartement.php">Appartement</a></li>
+                                            <li><a href="Vente-appartement.php">Appartment</a></li>
                                             <li><a href="Vente-villa.php">Villa</a></li>
                                             <li><a href="Vente-riad.php">Riad</a></li>
-                                            <li><a href="Vente-terrain.php">Terrain</a></li>
-                                            <li><a href="Vente-local-commercial.php">Local Commercial </a></li>
+                                            <li><a href="Vente-terrain.php">Land</a></li>
+                                            <li><a href="Vente-local-commercial.php">Offices</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-icon"><a href="#">Location Longue Durée</a>
+                                    <li class="menu-icon"><a href="#">Long Term Rental</a>
                                         <ul>
                                             <li><a href="Location-longue-duree-appartement.php">Appartement</a></li>
                                             <li><a href="Location-longue-duree-villa.php">Villa</a></li>
-                                            <li><a href="Location-longue-duree-local-commercial.php">Local Commercial </a></li>
+                                            <li><a href="Location-longue-duree-local-commercial.php">Offices </a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-icon"><a href="#">Location Saisonnière</a>
+                                    <li class="menu-icon"><a href="#">Seasonal Rental</a>
                                         <ul>
                                             <li><a href="Location-saisonniere-appartement.php">Appartement</a></li>
                                             <li><a href="Location-saisonniere-villa.php">Villa</a></li>
                                             <li><a href="Location-saisonniere-agafay-camp.php">Agafay Camp</a></li>
-                                            <li><a href="Location-saisonniere-chambre-hotel-riad.php">Chambre Hôtel / Riad</a></li>
+                                            <li><a href="Location-saisonniere-chambre-hotel-riad.php">Hotel / Riad Room</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-icon"><a href="#">Omari Services</a>
                                         <ul>
-                                            <li><a href="Omari-services-Location-Voiture.php">Location Voiture</a></li>
-                                            <li><a href="Omari-services-Transport-Touristique.php">Transport Touristique</a></li>
-                                            <li><a href="Omari-services-Excursions-et-Circuits.php">Excursions & Circuits</a></li>           
+                                            <li><a href="Omari-services-Location-Voiture.php">Car Rental</a></li>
+                                            <li><a href="Omari-services-Transport-Touristique.php">Transportation</a></li>
+                                            <li><a href="Omari-services-Excursions-et-Circuits.php">Excursions & Tours</a></li>           
                                         </ul>
                                     </li>
                                     <li><a href="Contact.php">Contact</a></li>
@@ -174,36 +173,36 @@
             </div>
             <div class="ltn__utilize-menu">
                 <ul>
-                    <li><a href="./">Accueil</a></li>
-                    <li><a href="#">Vente</a>
+                    <li><a href="./">Home</a></li>
+                    <li><a href="#">Sales</a>
                         <ul class="sub-menu">
-                        <li><a href="Vente-appartement.php">Appartement</a></li>
-                                            <li><a href="Vente-villa.php">Villa</a></li>
-                                            <li><a href="Vente-riad.php">Riad</a></li>
-                                            <li><a href="Vente-terrain.php">Terrain</a></li>
-                                            <li><a href="Vente-local-commercial.php">Local Commercial </a></li>
+                            <li><a href="Vente-appartement.php">Appartment</a></li>
+                            <li><a href="Vente-villa.php">Villa</a></li>
+                            <li><a href="Vente-riad.php">Riad</a></li>
+                            <li><a href="Vente-terrain.php">Land</a></li>
+                            <li><a href="Vente-local-commercial.php">Offices</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Location Longue Durée</a>
+                    <li><a href="#">Long Term Rental</a>
                         <ul class="sub-menu">
                         <li><a href="Location-longue-duree-appartement.php">Appartement</a></li>
                                             <li><a href="Location-longue-duree-villa.php">Villa</a></li>
-                                            <li><a href="Location-longue-duree-local-commercial.php">Local Commercial </a></li>
+                                            <li><a href="Location-longue-duree-local-commercial.php">Offices </a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Location Saisonnière</a>
+                    <li><a href="#">Seasonal Rental</a>
                         <ul class="sub-menu">
                         <li><a href="Location-saisonniere-appartement.php">Appartement</a></li>
                                             <li><a href="Location-saisonniere-villa.php">Villa</a></li>
                                             <li><a href="Location-saisonniere-agafay-camp.php">Agafay Camp</a></li>
-                                            <li><a href="Location-saisonniere-chambre-hotel-riad.php">Chambre Hôtel / Riad</a></li>
+                                            <li><a href="Location-saisonniere-chambre-hotel-riad.php">Hotel / Riad Room</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Omari Services</a>
                         <ul class="sub-menu">
-                        <li><a href="Omari-services-Location-Voiture.php">Location Voiture</a></li>
-                                            <li><a href="Omari-services-Transport-Touristique.php">Transport Touristique</a></li>
-                                            <li><a href="Omari-services-Excursions-et-Circuits.php">Excursions & Circuits</a></li>           
+                        <li><a href="Omari-services-Location-Voiture.php">Car Rental</a></li>
+                                            <li><a href="Omari-services-Transport-Touristique.php">Transportation</a></li>
+                                            <li><a href="Omari-services-Excursions-et-Circuits.php">Excursions & Tours</a></li>           
                         </ul>
                     </li>
                     <li><a href="../contact.html">Contact</a></li>

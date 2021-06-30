@@ -1,4 +1,4 @@
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
 <?php require '../includes/CrudBD.inc.php'?>
 
 
@@ -19,12 +19,12 @@
                                           
                                         </div>
                                         <h6 class="slide-sub-title white-color--- animated"style="color:#fff"><span style="color:#fff"><i class="fas fa-home" style="color:#fff"></i></span style="color:#fff"> Omari Agence Immobilière</h6>
-                                        <h1 class="slide-title animated " style="color:#fff">Trouvez La Maison De<br>Vos Rêves Chez Nous</h1>
+                                        <h1 class="slide-title animated " style="color:#fff">Find The<br>House Of Your Dreams</h1>
                                         <div class="slide-brief animated">
-                                            <p style="color:#fff"> OMARI AGENCE vous aide à trouver le bien de vos rêves ou à vendre rapidement votre logement actuel.</p>
+                                            <p style="color:#fff"> OMARI AGENCE helps you find the property of your dreams or quickly sell your current home.</p>
                                         </div>
                                         <div class="btn-wrapper animated">
-                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1"> Consulter Nos Biens</a>
+                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1"> Our Services</a>
                                             
                                         </div>
                                     </div>
@@ -43,12 +43,12 @@
                                 <div class="slide-item-info">
                                     <div class="slide-item-info-inner ltn__slide-animation">
                                         <h6 class="slide-sub-title white-color--- animated" style="color:#fff"><span><i class="fas fa-home"style="color:#fff"></i></span> Omari Agence Immobilière</h6>
-                                        <h1 class="slide-title animated "style="color:#fff">Le Bon Endroit Pour <br>Trouver Des Bons Activites </h1>
+                                        <h1 class="slide-title animated "style="color:#fff">The Right Place To </br>Find The Right Activities </h1>
                                         <div class="slide-brief animated">
-                                            <p style="color:#fff">Trouvez des activités passionnantes.Où vous voulez, quand vous voulez.</p>
+                                            <p style="color:#fff">Find exciting things to do, where you want, when you want.</p>
                                         </div>
                                         <div class="btn-wrapper animated">
-                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1" >Consulter Les Activités</a>
+                                            <a href="../Omari-Service-Excurtion-et-Circuits.php" class="theme-btn-1 btn btn-effect-1" >Our Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -110,33 +110,32 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
-                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Qui Sommes-nous</h6>
-                            <h1 class="section-title">Omari Agence immobilière <span>.</span></h1>
-                            <p>est une agence immobilière proposant depuis 2020 des biens en location ou en vente à Marrakech.</p>
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About Us</h6>
+                            <h1 class="section-title">The Leading Real Estate Rental Marketplace in Marrakech.<span>.</span></h1>
+                            <p>For all your real estate transactions whether it is: Apartment, Villa or Office rental or Sale / Purchase in Marrakech, the team of the Omari Immobilier real estate agency will be pleased to guide and accompany you.
+                            </br>Our range of products is vast, we invite you to discover it.
+                            </br>A simple assignment is a task that requires finding an estimated buyer / tenant of a real estate product, without being involved in the details of price negotiation and legal acts between the two parties: the buyer / tenant and the owner.</p>
                         </div>
                         <ul class="ltn__list-item-half clearfix">
                             <li>
                                 <i class="flaticon-home-2"></i>
-                                Conseil en immobilier
+                                Real Estate Purchase and Sale
                             </li>
                             <li>
                                 <i class="flaticon-mountain"></i>
-                                Belle Scène Autour
+                                Real Estate Consulting
                             </li>
                             <li>
                                 <i class="flaticon-heart"></i>
-                                Vente et Location d'un Immeuble
+                                Rental of Real Estate
                             </li>
                             <li>
                                 <i class="flaticon-secure"></i>
-                                Commercialisation exclusive de programmes immobiliers
+                                Management & Monitoring Real Estate Transactions
                             </li>
                         </ul>
-                        <div class="ltn__callout bg-overlay-theme-05  mt-30">
-                            <p>"Nous vous accompagnons jusqu'au bout de votre satisfaction, notre seule préoccupation est votre satisfaction !" </p>
-                        </div>
                         <div class="btn-wrapper animated">
-                            <a href="Contact.php" class="theme-btn-1 btn btn-effect-1">Contactez nous</a>
+                            <a href="Contact.php" class="theme-btn-1 btn btn-effect-1">Contact-Us</a>
                         </div>
                     </div>
                 </div>
@@ -154,8 +153,8 @@
                         <div class="counter-icon">
                             <img src="../assets/img/icons/ico-valeur.png">
                         </div>
-                        <h2>Expérience</h2>
-                        <h6>Omari Immobilier a acquis année après année, un vaste réseau de contacts, que nous saurons vous recommander....</h6>
+                        <h2>Experience</h2>
+                        <h6>Omari Immobilier has acquired, year after year, a vast network of contacts, which we can recommend to you.....</h6>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 ">
@@ -163,8 +162,8 @@
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-invest.png">
                         </div>
-                        <h2>Maitrise</h2>
-                        <h6>Omari Immobilier agit en professionnel de l'immobilier, ayant un code éthique et une  discrétion dans le suivi des dossiers...</h6>
+                        <h2> Mastery </h2>
+                        <h6>Omari Immobilier acts as a real estate professional, having a code of ethics and discretion in the follow-up of files...</h6>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 ">
@@ -172,8 +171,8 @@
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-conseil.png">
                         </div>
-                        <h2>Professionnalisme</h2>
-                        <h6>Choisir Omari Immobilier, c'est choisir une agence offrant une connaissance hors pair du marché de l'immobilier...</h6>
+                        <h2>Professionalism</h2>
+                        <h6>Choosing Omari Immobilier means choosing an agency offering unparalleled knowledge of the real estate market...</h6>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 ">
@@ -181,8 +180,8 @@
                         <div class="counter-icon">
                         <img src="../assets/img/icons/ico-buy.png">
                         </div>
-                        <h2>Conseil</h2>
-                        <h6>Nous saurons vous guider par nos judicieux conseils afin de finaliser au mieux votre projet.</h6>
+                        <h2>Advice</h2>
+                        <h6>We will be able to guide you with our judicious advice in order to finalize your project as well as possible..</h6>
                     </div>
                 </div>
             </div>
@@ -197,14 +196,14 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-30">
-                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Qui Sommes-nous</h6>
-                            <h1 class="section-title">Nos valeurs</h1>
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About-us</h6>
+                            <h1 class="section-title">Our values</h1>
                             <p>Une agence immobilière à Marrakech qui tient à ses valeurs</p>
                         </div>
                         <ul class="ltn__list-item-1 ltn__list-item-1-before clearfix">
-                            <li>Une passion de l'immobilier exprimée par le goût du service</li>
-                            <li>Un accompagnement personnalisé dans tous vos projets</li>
-                            <li>Nous tenons nos engagements et nous nous engageons sur toutes nos actions.</li>
+                            <li>A passion for real estate expressed by a taste for service</li>
+                            <li>Personalized support in all your projects</li>
+                            <li>We keep our commitments and we commit to all our actions.</li>
                             
                         </ul>
                         
@@ -235,9 +234,9 @@
             </div>
         </div>
     </div>
-    <?php include '../includes/slide.php'?>
+    <?php include '../includes/slideeng.php'?>
     <!-- FOOTER AREA START -->
-    <?php require '../includes/footer.php'?>
+    <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 </div>
 <!-- Body main wrapper end -->

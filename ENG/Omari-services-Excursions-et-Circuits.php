@@ -1,4 +1,4 @@
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
 
 
 <!-- BREADCRUMB AREA START -->
@@ -8,11 +8,11 @@
                 <div class="col-lg-12">
                     <div class="ltn__breadcrumb-inner">
                         <h1 class="page-title">              
-                        Excursions et Circuits</h1>
+                        Excursions & Tours</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
                                 <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span>Omari Service</a></li>
-                                <li>Excursions et Circuits</li>
+                                <li>Excursions & Tours</li>
                             </ul>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
 
 
  <!-- FOOTER AREA START -->
- <?php require '../includes/footer.php'?>
+ <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 </div>
 <!-- Body main wrapper end -->

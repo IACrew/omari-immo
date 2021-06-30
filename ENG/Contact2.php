@@ -6,7 +6,7 @@
    $Num = $_POST['phone'];
    $body = $_POST['message'];
 
-   $bodyM = " Nom : $name \n Email : $Email \n Raison : $Reason \n Message : $body";
+   $bodyM = " Name : $name \n Email : $Email \n Number : $Num \n Reason : $Reason \n Message : $body";
    mail($receipt, "Contact", $bodyM);
    header("Location: Contact.php");
    //echo $bodyM ;

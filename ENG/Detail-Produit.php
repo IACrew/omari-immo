@@ -1,17 +1,17 @@
 <?php if(!isset($_GET['id'])){ header( "Location: ../" ); exit;} ?>
 <?php require '../includes/CrudBD.inc.php'?>
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
     <!-- BREADCRUMB AREA START -->
     <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image mb-0"  data-bg="img/bg/14.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="ltn__breadcrumb-inner">
-                        <h1 class="page-title">Detail de Produit</h1>
+                        <h1 class="page-title">Product Detail</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
                                 <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Home</a></li>
-                                <li>Detail de Produit</li>
+                                <li>Product Detail</li>
                             </ul>
                         </div>
                     </div>
@@ -62,22 +62,22 @@
                         <p><?php echo $po["description"] ?></p>
                         <h4 class="title-2">Detail</h4>  
                         <div class="property-detail-info-list section-bg-1 clearfix mb-60">                          
-                            <ul>
-                                <li><label>Référence:</label> <span><?php echo $po["ref"] ?></span></li>
-                                <li><label>Chambres:</label> <span><?php echo $po["bedrooms"] ?></span></li>
-                                <li><label>Salles de bain:</label> <span><?php echo $po["bathrooms"] ?></span></li>
-                                <li><label>Les niveaux:</label> <span><?php echo $po["levels"] ?></span></li>
-                                <li><label>Cuisine:</label> <span><?php echo $po["kitchen"] ?></span></li>
-                                <li><label>Sale à manger:</label> <span><?php echo $po["dining"] ?></span></li>
+                        <ul>
+                                <li><label>Reference:</label> <span><?php echo $po["ref"] ?></span></li>
+                                <li><label>Bedooms:</label> <span><?php echo $po["bedrooms"] ?></span></li>
+                                <li><label>Bathrooms:</label> <span><?php echo $po["bathrooms"] ?></span></li>
+                                <li><label>Levels:</label> <span><?php echo $po["levels"] ?></span></li>
+                                <li><label>Kitchen:</label> <span><?php echo $po["kitchen"] ?></span></li>
+                                <li><label>Dining:</label> <span><?php echo $po["dining"] ?></span></li>
                                 
                         </ul>
                             <ul>
                                 <li><label>Superficie: </label> <span><?php echo $po["meters"] ?></span></li>
                                 <li><label>Internet:</label> <span><?php echo $po["internet"] ?></span></li>
-                                <li><label>CA:</label> <span><?php echo $po["AC"] ?></span></li>
+                                <li><label>AC:</label> <span><?php echo $po["AC"] ?></span></li>
                                 <li><label>Parking:</label> <span><?php echo $po["parking"] ?></span></li>
-                                <li><label>Prix:</label> <span>2</span></li>
-                                <li><label>Statut de propriété :</label> <span><?php echo $po["Statu"] ?></span></li>
+                                <li><label>Price:</label> <span>2</span></li>
+                                <li><label>Property Status:</label> <span><?php echo $po["Statu"] ?></span></li>
                             </ul>
                         </div>
                                         
@@ -102,7 +102,7 @@
 
                         <!-- Top Rated Product Widget -->
                         <div class="widget ltn__top-rated-product-widget">
-                            <h4 class="ltn__widget-title ltn__widget-title-border-2">Dernière Annonces</h4>
+                            <h4 class="ltn__widget-title ltn__widget-title-border-2">Related Properties</h4>
                             <ul>
                                 <?php $cbd = new CrudBD();
                                 $objects= $cbd->getpost(3);
@@ -136,7 +136,7 @@
                         </div>   
                         <!-- Social Media Widget -->
                         <div class="widget ltn__social-media-widget">
-                            <h4 class="ltn__widget-title ltn__widget-title-border-2">Suivez-nous</h4>
+                            <h4 class="ltn__widget-title ltn__widget-title-border-2">Follow-Us</h4>
                             <div class="ltn__social-media-2">
                                 <ul>
                                     <li><a href="https://www.facebook.com/omari.immobilier21" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>

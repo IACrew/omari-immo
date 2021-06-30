@@ -1,4 +1,4 @@
-<?php require '../includes/header.php'?>
+<?php require '../includes/headereng.php'?>
 
 
 <!-- BREADCRUMB AREA START -->
@@ -8,12 +8,12 @@
                 <div class="col-lg-12">
                     <div class="ltn__breadcrumb-inner">
                         <h1 class="page-title">              
-                        Transport Touristique
+                        Transportation
                         </h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span>Omari Service</a></li>
-                                <li>Transport Touristique</li>
+                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span>Omari Services</a></li>
+                                <li>Transportation</li>
                             </ul>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Hyundai h1</a></h2>
@@ -59,7 +59,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">ford transit</a></h2>
@@ -77,7 +77,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Chevrolet express </a></h2>
@@ -95,7 +95,7 @@
                                             <div class="product-info">
                                                 <div class="product-badge">
                                                     <ul>
-                                                        <li class="sale-badg">Location</li>
+                                                        <li class="sale-badg"> Rent</li>
                                                     </ul>
                                                 </div>
                                                 <h2 class="product-title"><a href="#">Mercedes sprinter van</a></h2>
@@ -121,7 +121,7 @@
 
 
  <!-- FOOTER AREA START -->
- <?php require '../includes/footer.php'?>
+ <?php require '../includes/footereng.php'?>
     <!-- FOOTER AREA END -->
 </div>
 <!-- Body main wrapper end -->
