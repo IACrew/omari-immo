@@ -68,6 +68,126 @@ font-family: 'Titillium Web', sans-serif;
 font-family: 'Nunito Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 */
+#call .label-container{
+	position:fixed;
+	bottom:48px;
+	left:105px;
+	display:table;
+	visibility: hidden;
+}
+
+#call .label-text{
+	color:#FFF;
+	background:rgba(51,51,51,0.5);
+	display:table-cell;
+	vertical-align:middle;
+	padding:10px;
+	border-radius:3px;
+}
+
+#call .label-arrow{
+	display:table-cell;
+	vertical-align:middle;
+	color:#333;
+	opacity:0.5;
+}
+
+#call .float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	left:40px;
+	background-color:#d6ad5f;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	z-index:1000;
+	animation: bot-to-top 2s ease-out;
+}
+
+#call ul{
+	position:fixed;
+	padding-bottom:20px;
+	bottom:80px;
+	z-index:100;
+  margin-left: 19px;
+}
+
+#call ul li{
+	list-style:none;
+	margin-bottom:10px;
+}
+
+#call ul li a{
+	background-color:#d6ad5f;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	width:60px;
+	height:60px;
+	display:block;
+}
+
+#call ul li .whats{
+	background-color:#07bc4c;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	width:60px;
+	height:60px;
+	display:block;
+}
+#call ul:hover{
+	visibility:visible!important;
+	opacity:1!important;
+}
+
+
+#call .my-float{
+	font-size:24px;
+	margin-top:18px;
+}
+
+#call a#menu-share + ul{
+  visibility: hidden;
+}
+
+#call a#menu-share:hover + ul{
+  visibility: visible;
+  animation: scale-in 0.5s;
+}
+
+#call a#menu-share i{
+	animation: rotate-in 0.5s;
+}
+
+#call a#menu-share:hover > i{
+	animation: rotate-out 0.5s;
+}
+
+@keyframes bot-to-top {
+    0%   {bottom:-40px}
+    50%  {bottom:40px}
+}
+
+@keyframes scale-in {
+    from {transform: scale(0);opacity: 0;}
+    to {transform: scale(1);opacity: 1;}
+}
+
+@keyframes rotate-in {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes rotate-out {
+    from {transform: rotate(360deg);}
+    to {transform: rotate(0deg);}
+}
 /* ====================================================
     Gutter Code 
 ==================================================== */

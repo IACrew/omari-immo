@@ -17,6 +17,19 @@
         </div>
     </div>
     <!-- CALL TO ACTION END -->
+    <div id="call">
+    <a href="#" class="float" id="menu-share">
+    <i class="fas fa-comments my-float"></i>
+</a>
+<ul>
+<li><a href="https://wa.me/212661198726" target="_blank" id="menu-Whatsaap" class="whats">
+<i class="fab fa-whatsapp my-float"></i>
+</a></li>
+<li><a href="tel:+212661198726" id="menu-phone">
+<i class="fas fa-phone my-float"></i>
+</a></li>
+</ul>
+</div>
     <!-- FOOTER AREA START -->
     <footer class="ltn__footer-area  ">
         <div class="footer-top-area  section-bg-2 plr--5">
