@@ -8,12 +8,12 @@
                 <div class="col-lg-12">
                     <div class="ltn__breadcrumb-inner">
                         <h1 class="page-title">              
-                            <?php if(!empty($page)) { echo $page;}else{ header( "Location: ../ENG/" ); exit;} ?>
+                            <?php if(!empty($page)) { echo "Offices";}else{ header( "Location: ../ENG/" ); exit;} ?>
                         </h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
                                 <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Sales</a></li>
-                                <li><?php echo $page; ?></li>
+                                <li><?php echo "Offices"; ?></li>
                             </ul>
                         </div>
                     </div>
